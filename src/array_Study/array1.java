@@ -2,8 +2,8 @@ package array_Study;
 
 public class array1 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{//array program
 		int [] rollnumber=new int[10];
 		//array intialisation
 		rollnumber[0]=10;
